@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 import { styles } from '../styles';
 import { navLinks } from '../constants';
 import { logo, menu, close } from '../assets';
-import resume from '/src/Abhishek.pdf'
+import resume from '/src/OMAR_AITBENHADDI cv.pdf'
 import { Router } from 'react-router-dom';
 
 const Navbar = () => {
@@ -26,7 +26,7 @@ const Navbar = () => {
         object-contain  ' />
           <p className='text-white text-[18px]  mt-4 
         font-bold cursor-pointer flex'>
-            Abhishek Yadav &nbsp; <span className='sm:block hidden'>  | Web Developer</span></p>
+            OMAR AIT BENHADDI &nbsp; <span className='sm:block hidden'>  | computer science student</span></p>
         </Link>
 
 
@@ -35,7 +35,7 @@ const Navbar = () => {
         <ul className='list-none hidden sm:flex flex-row gap-10'>
 
           <a href={resume}
-            download="Abhishek Abhishek.pdf">
+            download="OMAR_AITBENHADDI_CV.pdf">
             <button className={`${active === Link.title ? "  text-white" : "text-secondary"} hover:text-white text-[18px] font-medium cursor-pointer`}
               onClick={() => setActive(Link.title)}   >
 

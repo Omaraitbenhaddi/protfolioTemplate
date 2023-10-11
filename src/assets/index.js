@@ -1,4 +1,4 @@
-import logo from "./logo.png";
+import logo from "./logo.jpg";
 import backend from "./backend.webp";
 import creator from "./creator.webp";
 import mobile from "./mobile.png";
