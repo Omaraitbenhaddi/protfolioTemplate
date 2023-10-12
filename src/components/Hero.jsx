@@ -19,7 +19,7 @@
 //         </div>
 
 //         <div className={`${styles.heroHeadText} text-white`}>
-//           <h1>Hi, I'm <span className='text-[#915eff]'> Abhishek</span></h1>
+//           <h1>Hi, I'm <span className='text-[#915eff]'> AIT BENHADDI OMAR</span></h1>
 //           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
 //             I develop website , user <br className='sm:block hidden' /> 
 //             interfaces and web application
@@ -76,11 +76,11 @@ const Hero = () => {
 
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>
-            Hi, I'm <span className='text-[#915EFF]'>Abhishek Yadav</span>
+            Hi, I'm <span className='text-[#915EFF]'>OMAR AIT BENHADDI</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-           Mern Stack Developer  <br className='sm:block hidden' />
-            Competitive Programmer
+          Software engineering  <br className='sm:block hidden' />
+          Full stack data scientist
           </p>
         </div>
       </div>

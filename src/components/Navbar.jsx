@@ -63,7 +63,7 @@ const Navbar = () => {
 
           ))}
 
-          <a href="https://abhishek-bio.onrender.com/" target="_blank" >
+          <a href="#Socials" target="_blank" >
 
             <button className={`${active === Link.title ? "  text-white" : "text-secondary"} hover:text-white text-[18px] font-medium cursor-pointer`}
               onClick={() => setActive(Link.title)}   >
@@ -73,7 +73,8 @@ const Navbar = () => {
           </a>
 
 
-          <a href="https://hashnode.com/@Abhishek9503" target="_blank" >
+
+<a href="#Blog" target="_blank" >
 
 <button className={`${active === Link.title ? "  text-white" : "text-secondary"} hover:text-white text-[18px] font-medium cursor-pointer`}
   onClick={() => setActive(Link.title)}   >
@@ -100,7 +101,7 @@ const Navbar = () => {
             <ul className='list-none flex  justfy-end items-start flex-col gap-4'>
 
               <a href={resume}
-                download="Abhishek Abhishek.pdf">
+                download="OMAR_AIT_BENHADDI_CV.pdf">
                 <button className={`${active === Link.title ? "  text-white" : "text-secondary"} hover:text-white text-[18px] font-medium cursor-pointer`}
                   onClick={() => setActive(Link.title)}   >
 
@@ -131,7 +132,7 @@ const Navbar = () => {
               ))}
 
 
-              <a href="https://hashnode.com/@Abhishek9503" target="_blank" >
+              <a href="#Blogs" target="_blank" >
 
                 <button className={`${active === Link.title ? "  text-white" : "text-secondary"} hover:text-white text-[18px] font-medium cursor-pointer`}
                   onClick={() => setActive(Link.title)}   >
@@ -141,7 +142,7 @@ const Navbar = () => {
               </a>
 
 
-              <a href="https://abhishek-bio.onrender.com/" target="_blank" >
+              <a href="#Socials" target="_blank" >
 
                 <button className={`${active === Link.title ? "  text-white" : "text-secondary"} hover:text-white text-[18px] font-medium cursor-pointer`}
                   onClick={() => setActive(Link.title)}   >
