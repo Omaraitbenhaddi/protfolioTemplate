@@ -49,11 +49,11 @@ export const navLinks = [
 const services = [
 
   {
-    title: "Web Developer ",
+    title: "software engineering ",
     icon: mobile,
   },
   {
-    title: "2🌟Leetcode ",
+    title: "Leetcode ",
     icon: web,
   },
 

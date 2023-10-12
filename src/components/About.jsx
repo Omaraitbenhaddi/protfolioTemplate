@@ -51,9 +51,9 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-  An enthusiastic and motivated Student in  the field of Computer Science
-         with a keen interest  in Full Stack Development. I love to build software 
-         that makes an impact on my organization and the world.
+  I am a passionate developer in the field of information technology. I have acquired strong programming skills during my studies and gained significant experience in software development, DevOps,
+software engineering, data science, and cloud technologies. I have actively participated in various software development projects and made contributions to open-source projects. I am committed to
+continuously improving my skills and staying updated by learning.
          I enjoy solving complex problem and taking on challenging tasks. I am currently
          learning  Data structure and algorithm for my interest in problem solving.
          I am a quick learner and open to working in any technology . Detailed Oriented Consistency
