@@ -51,7 +51,7 @@ const FeedbackCard = ({
                 className='w-10 h-10 rounded-full object-cover'
               /> */}
 
-    <a  href="https://github.com/Abhishek9503" target="_blank"  onClick={() => window.open(source_code_link, "_blank")} >
+    <a  href="" target="_blank"  onClick={() => window.open(source_code_link, "_blank")} >
             <img 
                 src={github}
                 alt='source code'

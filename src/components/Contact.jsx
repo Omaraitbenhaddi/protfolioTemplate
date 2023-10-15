@@ -42,9 +42,9 @@ const Contact = () => {
     
         {
           from_name: form.name,
-          to_name: "Abhishek Yadav",
+          to_name: "",
           from_email: form.email,
-          to_email: "sujata@jsmastery.pro",
+          to_email: "",
           message: form.message,
         },
         '8D54qyP1R78P2J6v8'
